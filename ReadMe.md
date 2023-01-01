@@ -68,3 +68,5 @@ while True:
     utime.sleep(0.5)    # refresh rate of the distance meter
     display.show()
 ```
+
+6. don't forget to always save Ultrasonic_meter.py file on your Raspberry pi pico device.
