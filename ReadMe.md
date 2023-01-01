@@ -11,4 +11,6 @@ Follow the Diagram.png file instructions and make the necessary connections.
 ![Alt text](https://github.com/OmidAfzali02/UltraMeter/blob/main/Diagram.png)
 
 Now you can use the code on Ultrasonic_meter.py file and then your project is final.
-[label](Ultrasonic_meter.py)
+```
+from machine import Pin, I2C
+```
